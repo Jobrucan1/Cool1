@@ -2,3 +2,4 @@
 Packing list
 
 computer
+mouse
