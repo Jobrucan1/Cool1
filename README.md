@@ -3,3 +3,7 @@ Packing list
 
 computer
 mouse
+
+Luggage
+trousers
+t-shirt
