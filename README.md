@@ -3,6 +3,8 @@ Packing list
 
 computer
 mouse
+camera
+speaker
 
 Luggage
 trousers
